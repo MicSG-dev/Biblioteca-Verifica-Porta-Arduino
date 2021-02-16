@@ -1,0 +1,2 @@
+testePorta	KEYWORD1
+iniciaPortaSaida	KEYWORD2
