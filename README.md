@@ -3,7 +3,7 @@ Biblioteca para verificar se uma porta do Arduino foi inicializada corretamente
 Para verificar se alguma porta foi inicializada corrtamente, você deve criar um objeto do tipo  testePorta e inicializar com os seguinte parâmetro, do tipo int: (portaDoArduino).
 Após isso, você terá acesso à uma função que retorna true se a porta foi inicializada corretamente ou false se a porta não foi inicializada corretamente. 
 
-ATENÇÃO: Este exemplo foi desenvolvido SSOMENTE para ser utilizada para portas OUTPUT.
+ATENÇÃO: Este exemplo foi desenvolvido SOMENTE para ser utilizada para portas OUTPUT.
 
 # Library-Check-Port-Arduino
 Library to verify that an Arduino port has initialized correctly
