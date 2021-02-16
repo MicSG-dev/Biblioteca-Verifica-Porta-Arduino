@@ -12,8 +12,8 @@ public:
 private:
 	bool controleWhile = true;
 	int _pin;
-    int i;
-    bool retorno;
+    	int i;
+    	bool retorno;
 };
 
 #endif
