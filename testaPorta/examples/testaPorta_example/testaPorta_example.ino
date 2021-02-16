@@ -7,16 +7,10 @@ void setup() {
   testePorta led(13);
   if (!led.iniciaPortaSaida()) {
     Serial.println("ERRO de Inicialização.");
-    while (1) {
-
-    }
+    while (1) {    }
   } else {
     Serial.println("Porta 13 inicializada com sucesso");
   }
-
-  Serial.println("Sem erro, pois foi feito com outra serial");
-
-
 
 }
 
